@@ -6,7 +6,7 @@ Welcome to the software engineering interview Collection. An ongoing curated lis
 
 ## `Table of Contents`
 
-#### Papers
+## Papers
 
 * [Fault Injection in Production](http://queue.acm.org/detail.cfm?id=2353017) (Allspaw)
 * [Making Reliable Distributed Systems in the Presence of Software Errors](http://www.erlang.org/download/armstrong_thesis_2003.pdf) (Armstrong)
@@ -38,7 +38,7 @@ Welcome to the software engineering interview Collection. An ongoing curated lis
 * [Crew Resource Management: a Positive Change for the Fire Service](http://www.iaff.org/06news/NearMissKit/6.%20Crew%20Resource%20Management/CRM.pdf)
 
 
-#### Posts
+## Posts
 
 * [Resilience Engineering: Part I](http://www.kitchensoap.com/2011/04/07/resilience-engineering-part-i/), [Part II](http://www.kitchensoap.com/2012/06/18/resilience-engineering-part-ii-lenses/) (Allspaw)
 * [Systems Engineering: a Great Definition](http://www.kitchensoap.com/2011/07/18/systems-engineering-great-definition/) (Allspaw)
@@ -63,12 +63,12 @@ Welcome to the software engineering interview Collection. An ongoing curated lis
 * [Observability at Twitter](https://blog.twitter.com/2013/observability-at-twitter) (Watson)
 * [Stevey’s Google Platforms Rant](https://plus.google.com/112678702228711889851/posts/eVeouesvaVX) (Yegge)
 
-#### Presentations
+## Presentations
 
 * [Design, Lessons, and Advice from Building Distributed Systems at Google](http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf) (Dean)
 * [Service Design Best Practices](http://www.mvdirona.com/jrh/TalksAndPapers/JamesHamilton_POA20090226.pdf) (Hamilton)
 
-#### Books
+## Books
 
 * [The Field Guide To Understanding Human Error](http://www.amazon.com/Field-Guide-Understanding-Human-Error/dp/0754648265) (Dekker)
 * [Agile Retrospectives: Making Good Teams Great](http://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649) (Derby et al.)
@@ -81,7 +81,7 @@ Welcome to the software engineering interview Collection. An ongoing curated lis
 * [The Challenger Launch Decision](http://www.amazon.com/The-Challenger-Launch-Decision-Technology/dp/0226851761) (Vaughan)
 * [Managing the Unexpected](http://www.amazon.com/gp/product/B004IK9U4U) (Weick and Sutcliffe)
 
-#### Research Groups
+## Research Groups
 
 * [Berkley AMP Lab](https://amplab.cs.berkeley.edu/)
 * [Berkeley Database Group](http://db.cs.berkeley.edu/w/)
@@ -89,7 +89,7 @@ Welcome to the software engineering interview Collection. An ongoing curated lis
 * [Microsoft Systems Research](http://research.microsoft.com/en-US/groups/sr/default.aspx)
 * [Twitter Research](https://engineering.twitter.com/research)
 
-#### Conferences
+## Conferences
 
 * [Monitorama](http://monitorama.com/)
 * [Ricon](http://ricon.io/)
